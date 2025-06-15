@@ -10,8 +10,8 @@ document.addEventListener("DOMContentLoaded", function () {
                   <div class="main-menu d-lg-block">
                     <nav>
                       <ul id="navigation">
-                        <li><a class="active" href="index.html">home</a></li>
-                        <li><a href="./rooms.html">rooms</a></li>
+                        <li><a class="active" href="index.html">Home</a></li>
+                        <li><a href="./rooms.html">Rooms</a></li>
                         <li><a href="./about.html">About</a></li>
                         <li><a href="./blog.html">Blog <i class="fa-solid fa-chevron-down fa-xs"></i></a>
                           <ul class="submenu">
@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         </li>
                         <li><a href="./elements.html">pages <i class="fa-solid fa-chevron-down fa-xs"></i></a>
                           <ul class="submenu">
-                            <li><a href="./elements.html">elements</a></li>
+                            <li><a href="./elements.html">Elements</a></li>
                           </ul>
                         </li>
                         <li><a href="./contact.html">Contact</a></li>
