@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             <li><a href="./singleBlog.html">Single Blog</a></li>
                           </ul>
                         </li>
-                        <li><a href="./elements.html">pages <i class="fa-solid fa-chevron-down fa-xs"></i></a>
+                        <li><a href="./elements.html">Pages <i class="fa-solid fa-chevron-down fa-xs"></i></a>
                           <ul class="submenu">
                             <li><a href="./elements.html">Elements</a></li>
                           </ul>
@@ -60,8 +60,8 @@ document.addEventListener("DOMContentLoaded", function () {
           <div class="side-menu-content">
             <nav>
               <ul>
-                <li><a class="active" href="index.html">home</a></li>
-                <li><a href="./rooms.html">rooms</a></li>
+                <li><a class="active" href="index.html">Home</a></li>
+                <li><a href="./rooms.html">Rooms</a></li>
                 <li><a href="./about.html">About</a></li>
                 <li class="side-menu-hover"><a href="./blog.html">Blog <i class="fa-solid fa-chevron-down fa-xs"></i></a>
                   <ul class="submenu">
@@ -69,9 +69,9 @@ document.addEventListener("DOMContentLoaded", function () {
                     <li><a href="./singleBlog.html">Single Blog</a></li>
                   </ul>
                 </li>
-                <li class="side-menu-hover"><a href="./elements.html">pages <i class="fa-solid fa-chevron-down fa-xs"></i></a>
+                <li class="side-menu-hover"><a href="./elements.html">Pages <i class="fa-solid fa-chevron-down fa-xs"></i></a>
                   <ul class="submenu">
-                    <li><a href="elements.html">elements</a></li>
+                    <li><a href="elements.html">Elements</a></li>
                   </ul>
                 </li>
                 <li><a href="./contact.html">Contact</a></li>
