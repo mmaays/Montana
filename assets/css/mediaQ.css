@@ -1,0 +1,636 @@
+@import url(./style.css);
+
+@media (min-width: 0px) and (max-width:1200px) {
+
+    .first-nav,
+    .third-nav {
+        display: none;
+    }
+
+    .second-nav {
+        width: 100%;
+    }
+
+    .second-nav img {
+        padding: 5px;
+    }
+
+    .bars {
+        display: block;
+    }
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        font-size: 80px;
+    }
+
+    .offers_area {
+        padding-left: 40px;
+        padding-right: 40px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .room_heading h3 {
+        font-size: 24px;
+    }
+
+    .room_heading span {
+        font-size: 10px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 12px;
+    }
+
+    .forQuery .Query_border p {
+        font-size: 25px;
+    }
+
+    .forQuery .Query_border .phone_num a {
+        font-size: 16px;
+    }
+}
+
+
+@media (min-width: 0px) and (max-width:991px) {
+
+    .about_info {
+        padding: 50px 20px;
+        text-align: center;
+    }
+
+    .about_thumb {
+        justify-content: center;
+        margin-bottom: 60px;
+
+    }
+
+    .offers_area .section_title {
+        margin-bottom: 50px;
+    }
+
+    .offers_area .single_offers h3 {
+        font-size: 18px;
+    }
+
+    .offers_area .single_offers ul li {
+        font-size: 12px;
+    }
+
+    .book_now {
+        font-size: 13px;
+        padding: 8px 10px;
+    }
+
+    .about_thumb2 {
+        justify-content: center;
+        margin-bottom: 50px;
+    }
+
+    .forQuery .Query_border p {
+        font-size: 23px;
+    }
+
+    .forQuery .Query_border .phone_num a {
+        font-size: 14px;
+    }
+
+    .forQuery .Query_border {
+        padding: 25px 20px;
+    }
+
+    .footer .row {
+        row-gap: 100px;
+    }
+
+    .footer .footer_top .footer_widget .footer_title {
+        margin-bottom: 20px;
+    }
+
+    .bradcam_area {
+        margin-bottom: 100px;
+    }
+}
+
+
+
+@media (min-width: 0px) and (max-width:900px) {
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        font-size: 70px;
+    }
+
+    .section_title h3 {
+        font-size: 40px;
+    }
+
+    .room_heading h3 {
+        font-size: 20px;
+    }
+
+    .room_heading {
+        padding: 60px 50px 35px 25px;
+    }
+}
+
+
+
+@media (min-width: 0px) and (max-width:800px) {
+
+
+    .single_offers {
+        width: 100%;
+    }
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        font-size: 60px;
+    }
+
+    .slide-content p {
+        font-size: 18px;
+    }
+
+}
+
+
+
+@media (min-width: 0px) and (max-width:767px) {
+
+    .offers_area .single_offers h3 {
+        font-size: 30px;
+    }
+
+    .offers_area .single_offers ul li {
+        font-size: 20px;
+    }
+
+    .book_now {
+        font-size: 16px;
+        padding: 10px 10px;
+    }
+
+    .single_rooms {
+        width: 100%;
+    }
+
+    .room_heading h3 {
+        font-size: 35px;
+    }
+
+    .room_heading span {
+        font-size: 15px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 18px;
+    }
+
+    .room_heading {
+        padding: 60px 60px 50px 35px;
+    }
+
+    .forQuery .Query_border .Query_text {
+        text-align: center;
+    }
+
+    .forQuery .Query_border .phone_num {
+        margin-top: 15px;
+        text-align: center;
+    }
+
+    .footer .row {
+        row-gap: 60px;
+        text-align: center;
+    }
+
+    .footer .footer_top .footer_widget .newsletter_form input {
+        padding-left: 20px;
+        font-size: 17px;
+    }
+
+    .footer_widget {
+        padding: 0px 70px;
+    }
+
+    .bradcam_area {
+        margin-bottom: 50px;
+    }
+
+    .blog_details h2 {
+        font-size: 22px;
+    }
+
+    .excert {
+        font-size: 13px;
+    }
+
+    .blog_details p {
+        font-size: 14px;
+    }
+
+    .ord_1 {
+        order: 1;
+    }
+
+    .ord_0 {
+        order: 0;
+    }
+
+}
+
+
+
+@media (min-width: 0px) and (max-width:700px) {
+
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        margin: auto;
+        text-align: center;
+        width: 250px;
+        font-size: 60px;
+    }
+
+    .slide-content p {
+        font-size: 15px;
+    }
+
+    .room_heading h3 {
+        font-size: 28px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 16px;
+    }
+
+    .single-post .quotes p {
+        font-size: 14px;
+    }
+
+    .custom-button select,
+    .custom-button input {
+        height: 45px;
+        padding: 10px;
+        font-size: 13px;
+    }
+
+}
+
+
+
+@media (min-width: 0px) and (max-width:600px) {
+
+    .second-nav img {
+        padding: 5px;
+        width: 95px;
+    }
+
+    .bars {
+        top: 40px;
+        left: 20px;
+        font-size: 13px;
+    }
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        margin: auto;
+        text-align: center;
+        width: 250px;
+        font-size: 50px;
+    }
+
+    .slide-content p {
+        font-size: 12px;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        width: 30px;
+        height: 30px;
+    }
+
+    .offers_area .single_offers h3 {
+        font-size: 25px;
+    }
+
+    .offers_area .single_offers ul li {
+        font-size: 15px;
+    }
+
+    .video_area .video_area_inner h3 {
+        font-size: 40px;
+    }
+
+    .video_area .video_area_inner a {
+        width: 50px;
+        height: 50px;
+        line-height: 52px;
+        font-size: 10px;
+    }
+
+    .room_heading span {
+        font-size: 13px;
+    }
+
+    .room_heading h3 {
+        font-size: 26px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 14px;
+    }
+
+    .room_heading {
+        padding: 60px 40px 35px 20px;
+    }
+
+    .blog_item_img .blog_item_date h3 {
+        font-size: 25px;
+    }
+
+    .blog_item_img .blog_item_date p {
+        font-size: 15px;
+    }
+
+    .blog_item_img .blog_item_date {
+        padding: 5px 15px;
+    }
+
+    .blog_details2 h2 {
+        font-size: 18px;
+    }
+
+    .excert {
+        font-size: 11px;
+    }
+
+    .single-post .quotes p {
+        font-size: 12px;
+    }
+
+    .single-post-area .navigation-top .like-info,
+    .single-post-area .navigation-top .like-info span {
+        font-size: 10px;
+    }
+
+    .single-post-area .navigation-top .social-icons {
+        gap: 15px;
+        font-size: 11px;
+    }
+
+    .single-post-area .blog-author img {
+        width: 50px;
+
+    }
+
+    .single-post-area .blog-author {
+        padding: 30px 5px;
+    }
+
+    .single-post-area .blog-author h4 {
+        font-size: 14px;
+    }
+
+    .single-post-area .blog-author p {
+        font-size: 12px;
+    }
+
+    .comments-area h4 {
+        font-size: 20px;
+    }
+
+    .comments-area .thumb img {
+        width: 55px;
+    }
+
+    .comments-area .comment {
+        font-size: 12px;
+    }
+
+    .comments-area .desc h5 {
+        font-size: 12px;
+    }
+
+    .comments-area .date {
+        font-size: 11px;
+    }
+
+    .comments-area .btn-reply {
+        font-size: 10px;
+    }
+
+    .reply-btn {
+        padding: 5px;
+    }
+
+    .blog_details p {
+        font-size: 12px;
+    }
+
+    .section-top-border p,
+    .sample-text {
+        font-size: 14px;
+    }
+
+    .single-defination {
+        padding: 5px 15px;
+    }
+
+    .popup-content {
+        margin: 30px;
+        width: 80%;
+    }
+
+
+
+
+}
+
+
+@media (min-width: 0px) and (max-width:500px) {
+
+    .about_thumb {
+        padding: 10px 20px;
+    }
+
+    .section_title h3 {
+        font-size: 38px;
+    }
+
+    .about_area .about_info p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .line-button {
+        font-size: 13px;
+    }
+
+    .room_heading span {
+        font-size: 11px;
+    }
+
+    .room_heading h3 {
+        font-size: 24px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 12px;
+    }
+
+    .comments-area .date {
+        display: none;
+    }
+
+    .blog_details2 h2 {
+        font-size: 15px;
+    }
+
+    .check-btn {
+        padding: 18px 30px;
+        font-size: 12px;
+    }
+
+    .custom-button {
+        position: relative;
+        width: 90%;
+    }
+
+    .popup-content h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .row.full-col {
+        margin-bottom: 10px;
+    }
+}
+
+
+@media (min-width: 0px) and (max-width:450px) {
+
+    .bradcam_area h3,
+    .slide-content h3 {
+        margin: auto;
+        text-align: center;
+        width: 200px;
+        font-size: 40px;
+    }
+
+    .slide-content p {
+        font-size: 10px;
+    }
+
+    .offers_area .single_offers h3 {
+        font-size: 20px;
+    }
+
+    .offers_area .single_offers ul li {
+        font-size: 13px;
+    }
+
+    .book_now {
+        font-size: 13px;
+        padding: 10px 10px;
+    }
+
+    .video_area .video_area_inner h3 {
+        font-size: 30px;
+    }
+
+    .forQuery .Query_border p {
+        font-size: 20px;
+    }
+
+    .forQuery .Query_border .phone_num a {
+        font-size: 12px;
+    }
+
+    .room_heading span {
+        font-size: 11px;
+    }
+
+    .room_heading h3 {
+        font-size: 20px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 12px;
+    }
+
+    .footer_widget {
+        padding: 0px 45px;
+    }
+
+    .footer .footer_top .footer_widget .newsletter_form input {
+        padding-left: 15px;
+        font-size: 12px;
+    }
+
+    .footer .footer_top .footer_widget .newsletter_form button {
+        font-size: 12px;
+    }
+
+    .blog_details2 h2 {
+        font-size: 14px;
+    }
+
+    .excert {
+        font-size: 9px;
+    }
+
+    .blog_details p {
+        font-size: 10px;
+    }
+
+    .check-btn {
+        padding: 15px 5px;
+        font-size: 10px;
+    }
+
+
+}
+
+
+
+@media (min-width: 0px) and (max-width:350px) {
+
+    .video_area .video_area_inner h3 {
+        font-size: 25px;
+    }
+
+    .video_area .video_area_inner a {
+        width: 40px;
+        height: 40px;
+        line-height: 42px;
+        font-size: 10px;
+    }
+
+    .room_heading span {
+        font-size: 10px;
+    }
+
+    .room_heading h3 {
+        font-size: 18px;
+    }
+
+    .single_rooms:hover .room_heading a {
+        font-size: 10px;
+    }
+
+    .footer_widget {
+        padding: 0px 30px;
+    }
+
+    .blog_item_img .blog_item_date h3 {
+        font-size: 20px;
+    }
+
+    .blog_item_img .blog_item_date p {
+        font-size: 11px;
+    }
+
+}
